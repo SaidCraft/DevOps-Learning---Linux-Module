@@ -1,9 +1,9 @@
 # 🧪 DevOps Learning – Linux Module
 
 This repository documents my hands-on learning journey with Linux. It contains:
-- ✅ [Linux Notes](./Linux/Linux-notes.md) – Practical tips, command references, and troubleshooting guides from real experience.
-- ✅ [OverTheWire Bandit](./Bandit/README.md) – A level-by-level Linux challenge focused on file navigation, decoding, and CLI tools.
-- ✅ [SadServers Writeups](./Sadservers/Sadservers.md) – Real-world Linux debugging problems solved through investigative CLI work.
+- ✅ [Linux Notes](./linux/linux-notes.md) – Practical tips, command references, and troubleshooting guides from real experience.
+- ✅ [OverTheWire Bandit](./bandit/README.md) – A level-by-level Linux challenge focused on file navigation, decoding, and CLI tools.
+- ✅ [SadServers Writeups](./sadservers/sadservers.md) – Real-world Linux debugging problems solved through investigative CLI work.
 
 Each section is a self-contained learning log designed to strengthen core Linux skills through active problem-solving.
 
